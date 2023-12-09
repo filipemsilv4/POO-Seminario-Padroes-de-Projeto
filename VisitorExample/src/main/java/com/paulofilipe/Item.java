@@ -1,4 +1,4 @@
-package com.paulofilipe.Itens;
+package com.paulofilipe;
 
 import com.paulofilipe.Visitor;
 

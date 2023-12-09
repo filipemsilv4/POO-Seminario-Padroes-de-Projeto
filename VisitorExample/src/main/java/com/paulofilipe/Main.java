@@ -1,7 +1,5 @@
 package com.paulofilipe;
 
-import com.paulofilipe.Itens.*;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 

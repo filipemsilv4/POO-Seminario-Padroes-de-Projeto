@@ -1,6 +1,4 @@
-package com.paulofilipe.Itens;
-
-import com.paulofilipe.Visitor;
+package com.paulofilipe;
 
 import java.math.BigDecimal;
 

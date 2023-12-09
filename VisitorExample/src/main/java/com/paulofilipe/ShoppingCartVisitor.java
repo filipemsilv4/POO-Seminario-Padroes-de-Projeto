@@ -1,7 +1,5 @@
 package com.paulofilipe;
 
-import com.paulofilipe.Itens.*;
-
 public class ShoppingCartVisitor implements Visitor {
     @Override
     public void visit(Livro livro) {
