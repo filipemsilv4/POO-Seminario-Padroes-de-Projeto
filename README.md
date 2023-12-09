@@ -67,7 +67,7 @@ O padrão Visitor é um padrão comportamental que permite definir uma operaçã
 
 O padrão Visitor pode ser usado para implementar a funcionalidade de um carrinho de compras. No exemplo a seguir, temos um carrinho de compras que pode conter videogames, doces e livros.
 
-![VisitorExampleClassDiagram.png](Semina%CC%81rio%20de%20POO%20Padro%CC%83es%20de%20Projeto%20126f8f5c02694176aaa77bcc4000cc56/VisitorExampleClassDiagram.png)
+![VisitorExampleClassDiagram.png](VisitorExampleClassDiagram.png)
 
 **Código-fonte do exemplo de Visitor em Java:**
 
@@ -299,7 +299,7 @@ O padrão Mediator promove um design mais flexível e extensível, tornando-o ad
 
 O padrão Mediator pode ser usado para implementar a funcionalidade de um forum. No exemplo a seguir, temos um forum em que um usuário manda mensagem e todos os outros a vêem.
 
-![MediatorExampleClassDiagram.png](Semina%CC%81rio%20de%20POO%20Padro%CC%83es%20de%20Projeto%20126f8f5c02694176aaa77bcc4000cc56/MediatorExampleClassDiagram.png)
+![MediatorExampleClassDiagram.png](MediatorExampleClassDiagram.png)
 
 **Código-fonte do exemplo de Mediator em Java:**
 
