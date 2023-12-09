@@ -14,8 +14,6 @@ public class Main {
         itens.add(new Doce("Bolo de chocolate", 200, BigDecimal.valueOf(10)));
         itens.add(new Videogame("PS5", 2020, "Sony", BigDecimal.valueOf(4000)));
 
-        for (Item item : itens) {
-            item.accept(visitor);
-        }
+        for (Item item : itens) item.accept(visitor);
     }
 }
